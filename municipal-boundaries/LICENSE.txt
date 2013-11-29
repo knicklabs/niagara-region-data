@@ -1,0 +1,82 @@
+Regional Municipality of Niagara Open Data Agreement
+
+Introduction
+
+Please note that by accessing the datasets, you agree to these Terms of Use, which are intended to protect and promote The Regional Municipality of Niagara's ("Niagara Region") commitments to open data and ensure that the recipients of these datasets give back to the community the benefits they derive from these datasets. If you do not wish to be bound by these Terms of Use, do not download or use the datasets. The terms "You" and "Your" refers to you and to any organization on behalf of which you are acting. If you are acting on behalf of an organization, you represent to the Niagara Region that you are duly authorized to act on behalf of this organization and that the organization hereby gives its assent to be bound to the Niagara Region by these Terms of Use.
+
+If you have any questions or comments about these Terms of Use, please feel free to contact us at:
+
+Niagara Region
+2201 St. David's Road
+Thorold, ON L2V 4T7
+
+Your Open License to the Datasets
+
+Upon acceptance of these Terms of Use, Niagara Region now grants you a world-wide, royalty-free, non-exclusive license to use, modify, and distribute the datasets in all current and future media and formats for any lawful, non-commercial purpose. You now acknowledge that this license does not give you a copyright or other proprietary interest in the datasets. If you distribute or provide access to these datasets to any other person, whether in original or modified form, you agree to include a copy of these Terms of Use, or this Uniform Resource Locator and to ensure they agree to and are bound by them but without introducing any further restrictions of any kind.
+
+You are free to:
+
+Copy, publish, distribute and transmit the datasets
+Adapt the datasets
+Giving Niagara Region credit
+
+Although you are not required to credit the Niagara Region for each use or reproduction of the datasets, you are entitled to do so and encouraged to conspicuously announce that these datasets are publicly available from the Niagara Region under these Terms of Use. Upon the request of the Niagara Region, you may be required to remove a credit from future uses or reproductions should the Niagara Region decide that such credit is not in the public interest.
+
+When giving us credit, you must:
+
+Acknowledge the source of the datasets by including the following attribution statement specified by the Niagara Region and, where possible, provide a link to this License:
+"Contains public sector datasets made available under the Niagara Region's Open Data Licence v1.0."
+
+Ensure that You do not Use these datasets in a way that suggests any official status of the Niagara Region or that the Niagara Region endorses You or Your Use of the datasets
+Ensure that You do not misrepresent the datasets or their source
+Ensure that Your Use of the datasets does not breach or infringe any applicable laws
+These are important conditions that must be met under this Licence and if You fail to comply with them, the rights granted to You under this Licence will end automatically
+Exceptions
+
+This Licence does not cover the Use of:
+
+Personal Information in the datasets
+Niagara Region logos except where they form an integral part of a Dataset
+Third party rights the Niagara Region is not authorized to Licence
+datasets subject to intellectual property rights other than copyright, including patents, trademarks, and design rights
+Future changes to datasets/Terms of Use
+
+The Niagara Region may at any time and from time to time add, delete, or change the datasets or these Terms of Use. The Niagara Region has no obligation whatsoever to keep on providing services and/or upgrades of the datasets. Notice of changes may be posted on the home page for these datasets or this page. Any change is effective immediately upon posting, unless otherwise stated.
+
+Compliance with law - Your responsibility
+
+You assume sole responsibility for your use and reproduction of the datasets complying with all applicable laws and industry standards.
+
+You acknowledge that the Niagara Region, as a regional level of Ontario municipal government, is governed by the province of Ontario's freedom of information and protections of privacy legislation including the Municipal Freedom of Information and Protection of Privacy Act ("MFIPPA") and the Personal Health Information Protection Act ("PHIPA"); You agree to abide by the tenets and requirements of such legislation under the Terms of Use.
+
+No warranty with datasets
+
+You get no warranties - none of any kind. By this, we mean, for example (but without limiting the total intended scope of the preceding sentence), (1) that while reasonable efforts have been made in preparing these datasets for use by You, the Niagara Region cannot give any promises as to the completeness, currency, or accuracy of the datasets nor that access will be continuous, (2) the Niagara Region cannot make any promise that the datasets are free and clear of any possible third party copyright, moral rights, or other claim, (3) the datasets have been modified from their original source, as data initially generated by the Niagara Region for its internal uses, and (4) all data visualizations on maps are approximate and include only records that can be mapped.
+
+You accept these datasets on an "as-is, where is" basis and agree to use them at Your own risk. The Niagara Region disclaims all other warranties, expressed or implied, including but not limited to implied warranties of merchantability and fitness for a particular purpose, with respect to the information retrieved under the Terms of Use.
+
+Exclusion of liability
+
+You agree that You will not and cannot sue the Niagara Region for anything, which the Niagara Region does or does not do (even if intentional or negligent) in connection with the datasets and Your Use or inability to use them. Without limiting the general scope of the preceding sentence, this means that the Niagara Region and its agents are not liable on any legal theory or basis for any direct, incidental, indirect, special, punitive, exemplary, or consequential damages or losses, including without limitation, loss of revenue or anticipated profits, loss of goodwill, loss of business, loss of data, computer failure or malfunction, or any other damages or losses.
+
+Liability for not complying with Terms of Use
+
+If, as a result of Your breach of these Terms of Use, the Niagara Region gets sued or is required to pay someone money, You agree to protect the Niagara Region and reimburse the Niagara Region for everything which You cause the Niagara Region to suffer. This means that you agree to defend, indemnify, and hold harmless the Niagara Region and all of its agents from any and all liabilities incurred in connection with any claim arising from any breach by you of these Terms of Use, including reasonable legal fees and costs. You agree to cooperate fully in the defense of any such claim. The Niagara Region reserves the right to assume, at its own expense, the exclusive defense and control of any matter otherwise subject to indemnification by You. You agree not to settle any matter without the written consent of the Niagara Region.
+
+Cancellation for non-compliance
+
+The Niagara Region may, in its sole discretion, cancel or suspend Your access to the datasets without notice and for any reason, including anything which the Niagara Region, in its sole discretion, believes is a breach of these Terms of Use or is otherwise unlawful or harmful to others. In the event of cancellation or suspension, You will no longer be authorized to use or reproduce these datasets, and the Niagara Region may use any means possible to enforce its decision. Such cancellation or suspension will not affect any person who has received the datasets from You and who is otherwise in compliance with these Terms of Use.
+
+No condoning, excusing or overlooking by the Niagara Region of any default by You in performing or observing any of Your obligations under these Terms of Use will operate as a waiver or otherwise affect the rights of the Niagara Region in respect of any continuing or subsequent default.
+
+No endorsement
+
+You may not publicly represent or imply that the Niagara Region is participating in, or has sponsored, approved, or endorsed the manner or purpose of, Your Use or reproduction of these datasets.
+
+No association
+
+You may not use any trade-mark, official mark, official emblem or logo, of the Niagara Region, or any of its other references or means of promotion or publicity without the Niagara Region's prior written consent nor in any event to represent or imply an association or affiliation with the Niagara Region.
+
+Governing law and jurisdiction from which datasets are published.
+
+These datasets are published from within the Province of Ontario, Canada. These Terms of Use are governed by Ontario law and the Niagara Region and you now irrevocably submit to the exclusive jurisdiction of Ontario courts with respect to any and all matters arising under these Terms of Use or these datasets.
